@@ -37,7 +37,7 @@ Modify your local editor configuration to load `zuban` as the language server fo
 
 ### Configuration
 
-`Zuban` offers a configuration via `pyproject.toml` or `mypy.ini`. To use with virtual environments, set the `python_executable` option in the configuration.
+`Zuban` supports configuration via `pyproject.toml` or `mypy.ini`. To use with virtual environments, set the `python_executable` option in the configuration.
 
 ```toml
 [tool.zuban]
