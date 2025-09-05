@@ -1,0 +1,11 @@
+id = "zed_zuban"
+name = "ZubanLS"
+version = "0.0.1"
+schema_version = 1
+authors = ["Carlos Llamacho <llamacholancho@gmail.com>"]
+description = "Language Server for ZubanLS"
+repository = "https://github.com/CMLL/zed_zuban"
+
+[language_servers.zuban]
+name = "Zuban"
+languages = ["Python"]
